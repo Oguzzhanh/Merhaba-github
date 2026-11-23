@@ -8,4 +8,4 @@ Github öğrenirken oluşturdupum ilk repo.
 ## Bu depoda neler var?
 
 - [İlk programım](kodlar/merhaba.c++)
-A.
+![SAKARYA ÜNİVERSİTESİ]
