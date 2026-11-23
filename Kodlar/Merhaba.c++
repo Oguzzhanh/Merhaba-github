@@ -4,7 +4,7 @@
 int main()
 {
 
-cout << selam << endl;
+cout << "selam" << endl;
 
 
 
